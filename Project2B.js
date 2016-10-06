@@ -1,7 +1,7 @@
 /**
  *   @author Jarvenpaa, Josiah (josiahjarvenpaa@live.com)
  *   @version 0.0.2
- *   @summary Salary.js code || created: 10.05.2016
+ *   @summary Project2B (AKA Insurance Program) code || created: 10.05.2016
  *   @todo
  */
 

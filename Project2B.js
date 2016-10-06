@@ -149,8 +149,3 @@ function printGoodbye() {
     process.stdout.write('\x1Bc'); //Clears the screen
     console.log(`\n\tGoodbye.`);
 }
-
-/*
- This program is designed to prompt customer for basic information about their dog, calculate the price, then output
- the total bill.
- */

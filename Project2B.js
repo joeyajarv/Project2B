@@ -7,7 +7,6 @@
 
 "use strict";
 const PROMPT = require('readline-sync');
-
 const CURRENT_YEAR = 2016;
 
 let continueResponse;
